@@ -1,0 +1,1 @@
+const apiKey= 'Your-API-Openweathermap';
